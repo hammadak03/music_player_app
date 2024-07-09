@@ -34,13 +34,6 @@ PulsePlay is a music player application built using Flutter. The app allows user
 - Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
 - Dart: [Install Dart](https://dart.dev/get-dart)
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/PulsePlay.git
-   cd PulsePlay
 
 ## Project Structure
 
